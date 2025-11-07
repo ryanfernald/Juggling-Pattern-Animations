@@ -1,4 +1,4 @@
-# For the Visual Learners. And otherwise too complicated to explain.
+# For the Visual Learners, or otherwise too complicated to explain.
 
 Made with Synfig by Ryan.
 
